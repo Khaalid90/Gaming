@@ -1,0 +1,7 @@
+gamehub_storage/
+uploads/
+.env
+*.zip
+*.apk
+*.exe
+*.iso
